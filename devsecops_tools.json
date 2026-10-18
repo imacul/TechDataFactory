@@ -1,0 +1,26 @@
+﻿[
+    {
+        "Tool":  "Gitleaks",
+        "Purpose":  "Secret Scanning",
+        "Category":  "Git Security",
+        "Date":  "2026-10-18"
+    },
+    {
+        "Tool":  "Trivy",
+        "Purpose":  "Container \u0026 Dependency Scanner",
+        "Category":  "Cloud Security",
+        "Date":  "2026-10-18"
+    },
+    {
+        "Tool":  "Cloudflare WARP",
+        "Purpose":  "Secure Zero Trust Tunneling",
+        "Category":  "Network Security",
+        "Date":  "2026-10-18"
+    },
+    {
+        "Tool":  "OWASP ZAP",
+        "Purpose":  "Web App Penetration Testing",
+        "Category":  "Application Security",
+        "Date":  "2026-10-18"
+    }
+]

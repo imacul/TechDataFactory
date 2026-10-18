@@ -1,0 +1,32 @@
+﻿[
+    {
+        "Database":  "PostgreSQL",
+        "Type":  "Relational SQL",
+        "Status":  "Dominant",
+        "Date":  "2026-10-18"
+    },
+    {
+        "Database":  "Neon",
+        "Type":  "Serverless Postgres",
+        "Status":  "Fast Growing",
+        "Date":  "2026-10-18"
+    },
+    {
+        "Database":  "DuckDB",
+        "Type":  "Analytical OLAP",
+        "Status":  "Trending",
+        "Date":  "2026-10-18"
+    },
+    {
+        "Database":  "Redis",
+        "Type":  "In-Memory / Caching",
+        "Status":  "Standard",
+        "Date":  "2026-10-18"
+    },
+    {
+        "Database":  "Supabase",
+        "Type":  "Open Source Firebase Alternative",
+        "Status":  "Fast Growing",
+        "Date":  "2026-10-18"
+    }
+]

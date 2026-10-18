@@ -1,0 +1,26 @@
+﻿[
+    {
+        "Language":  "Rust",
+        "Safety":  "Memory Safe",
+        "Focus":  "Systems \u0026 WebAssembly",
+        "Date":  "2026-10-18"
+    },
+    {
+        "Language":  "Zig",
+        "Safety":  "Manual / Comptime",
+        "Focus":  "C Alternative \u0026 Graphics",
+        "Date":  "2026-10-18"
+    },
+    {
+        "Language":  "Go",
+        "Safety":  "Garbage Collected",
+        "Focus":  "Cloud \u0026 Microservices",
+        "Date":  "2026-10-18"
+    },
+    {
+        "Language":  "C++",
+        "Safety":  "Manual",
+        "Focus":  "High-Performance Engines",
+        "Date":  "2026-10-18"
+    }
+]

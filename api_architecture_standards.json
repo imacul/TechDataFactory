@@ -1,0 +1,32 @@
+﻿[
+    {
+        "Protocol":  "REST",
+        "Paradigm":  "Resource-Based HTTP",
+        "UseCase":  "Standard APIs",
+        "Date":  "2026-10-18"
+    },
+    {
+        "Protocol":  "GraphQL",
+        "Paradigm":  "Query-Client-Driven",
+        "UseCase":  "Complex Frontend Apps",
+        "Date":  "2026-10-18"
+    },
+    {
+        "Protocol":  "tRPC",
+        "Paradigm":  "End-to-End Type Safety",
+        "UseCase":  "TypeScript Monorepos",
+        "Date":  "2026-10-18"
+    },
+    {
+        "Protocol":  "gRPC",
+        "Paradigm":  "High-Performance RPC",
+        "UseCase":  "Microservices",
+        "Date":  "2026-10-18"
+    },
+    {
+        "Protocol":  "WebSockets",
+        "Paradigm":  "Full-Duplex Real-time",
+        "UseCase":  "Live Chat \u0026 Feeds",
+        "Date":  "2026-10-18"
+    }
+]

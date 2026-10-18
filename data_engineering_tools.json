@@ -1,0 +1,26 @@
+﻿[
+    {
+        "Tool":  "Apache Airflow",
+        "Function":  "Workflow Orchestration",
+        "Maturity":  "Established",
+        "Date":  "2026-10-18"
+    },
+    {
+        "Tool":  "dbt (Data Build Tool)",
+        "Function":  "Transformation in Warehouse",
+        "Maturity":  "Industry Standard",
+        "Date":  "2026-10-18"
+    },
+    {
+        "Tool":  "Apache Kafka",
+        "Function":  "Event Streaming",
+        "Maturity":  "High Scale",
+        "Date":  "2026-10-18"
+    },
+    {
+        "Tool":  "DuckDB",
+        "Function":  "In-Process OLAP",
+        "Maturity":  "Rising Star",
+        "Date":  "2026-10-18"
+    }
+]

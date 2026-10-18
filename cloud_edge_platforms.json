@@ -1,0 +1,26 @@
+﻿[
+    {
+        "Platform":  "Vercel",
+        "Specialty":  "Frontend \u0026 Serverless",
+        "Ecosystem":  "Global Edge",
+        "Date":  "2026-10-18"
+    },
+    {
+        "Platform":  "Cloudflare Workers",
+        "Specialty":  "Edge Computing \u0026 KV",
+        "Ecosystem":  "Global Edge",
+        "Date":  "2026-10-18"
+    },
+    {
+        "Platform":  "AWS",
+        "Specialty":  "Enterprise Cloud Infra",
+        "Ecosystem":  "Comprehensive",
+        "Date":  "2026-10-18"
+    },
+    {
+        "Platform":  "Render",
+        "Specialty":  "PaaS \u0026 Web Services",
+        "Ecosystem":  "Developer Friendly",
+        "Date":  "2026-10-18"
+    }
+]

@@ -1,0 +1,32 @@
+﻿[
+    {
+        "Framework":  "LangChain / LangGraph",
+        "Language":  "Python/TS",
+        "Purpose":  "Agentic Workflows",
+        "Date":  "2026-10-18"
+    },
+    {
+        "Framework":  "CrewAI",
+        "Language":  "Python",
+        "Purpose":  "Multi-Agent Systems",
+        "Date":  "2026-10-18"
+    },
+    {
+        "Framework":  "LlamaIndex",
+        "Language":  "Python/TS",
+        "Purpose":  "RAG \u0026 Data Connectors",
+        "Date":  "2026-10-18"
+    },
+    {
+        "Framework":  "AutoGen",
+        "Language":  "Python/C#",
+        "Purpose":  "Conversational Agents",
+        "Date":  "2026-10-18"
+    },
+    {
+        "Framework":  "n8n AI Nodes",
+        "Language":  "Low-Code / JS",
+        "Purpose":  "Visual AI Pipelines",
+        "Date":  "2026-10-18"
+    }
+]

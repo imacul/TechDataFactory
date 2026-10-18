@@ -1,0 +1,26 @@
+﻿[
+    {
+        "Framework":  "React Native",
+        "Language":  "JavaScript/TypeScript",
+        "Platform":  "Cross-Platform",
+        "Date":  "2026-10-18"
+    },
+    {
+        "Framework":  "Flutter",
+        "Language":  "Dart",
+        "Platform":  "Cross-Platform",
+        "Date":  "2026-10-18"
+    },
+    {
+        "Framework":  "Kotlin Multiplatform",
+        "Language":  "Kotlin",
+        "Platform":  "Native Shared Logic",
+        "Date":  "2026-10-18"
+    },
+    {
+        "Framework":  "SwiftUI",
+        "Language":  "Swift",
+        "Platform":  "Apple Native",
+        "Date":  "2026-10-18"
+    }
+]

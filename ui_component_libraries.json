@@ -1,0 +1,32 @@
+﻿[
+    {
+        "Library":  "shadcn/ui",
+        "Framework":  "React / Tailwind",
+        "PopularityRank":  1,
+        "Date":  "2026-10-18"
+    },
+    {
+        "Library":  "Radix UI",
+        "Framework":  "React",
+        "PopularityRank":  2,
+        "Date":  "2026-10-18"
+    },
+    {
+        "Library":  "Mantine",
+        "Framework":  "React",
+        "PopularityRank":  3,
+        "Date":  "2026-10-18"
+    },
+    {
+        "Library":  "TailwindUI",
+        "Framework":  "HTML / React / Vue",
+        "PopularityRank":  4,
+        "Date":  "2026-10-18"
+    },
+    {
+        "Library":  "Chakra UI",
+        "Framework":  "React",
+        "PopularityRank":  5,
+        "Date":  "2026-10-18"
+    }
+]

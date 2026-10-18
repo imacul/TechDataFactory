@@ -1,0 +1,32 @@
+﻿[
+    {
+        "Engine":  "Godot",
+        "Language":  "GDScript/C#",
+        "Type":  "Open Source 2D/3D",
+        "Date":  "2026-10-18"
+    },
+    {
+        "Engine":  "Unreal Engine",
+        "Language":  "C++",
+        "Type":  "High-End 3D",
+        "Date":  "2026-10-18"
+    },
+    {
+        "Engine":  "Unity",
+        "Language":  "C#",
+        "Type":  "Cross-Platform 3D",
+        "Date":  "2026-10-18"
+    },
+    {
+        "Engine":  "Three.js / R3F",
+        "Language":  "JavaScript/TypeScript",
+        "Type":  "Web 3D Graphics",
+        "Date":  "2026-10-18"
+    },
+    {
+        "Engine":  "Babylon.js",
+        "Language":  "TypeScript",
+        "Type":  "Web 3D Graphics",
+        "Date":  "2026-10-18"
+    }
+]
