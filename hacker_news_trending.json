@@ -2,76 +2,321 @@
     {
         "Title":  "DeepSeek search and fetch – $0.75 per 1000 successful requests",
         "Url":  "https://api-docs.deepseek.com/guides/search/",
-        "Date":  "2026-10-18"
-    },
-    {
-        "Title":  "Show HN: Sphinx – A hook that quizzes you on your AI\u0026#x27;s code before shipping",
-        "Url":  "https://sphinx-six-theta.vercel.app/",
-        "Date":  "2026-10-18"
+        "Score":  253,
+        "Author":  "fagnerbrack",
+        "Comments":  119,
+        "ScrapedAt":  "2026-10-18 12:57:23"
     },
     {
         "Title":  "Parser Combinators",
         "Url":  "https://t3.at/blog/2026-10-17-parser-combinators/",
-        "Date":  "2026-10-18"
+        "Score":  45,
+        "Author":  "schindlabua",
+        "Comments":  21,
+        "ScrapedAt":  "2026-10-18 12:57:23"
+    },
+    {
+        "Title":  "Show HN: Sphinx – A hook that quizzes you on your AI\u0027s code before shipping",
+        "Url":  "https://sphinx-six-theta.vercel.app/",
+        "Score":  149,
+        "Author":  "critiquebrowser",
+        "Comments":  46,
+        "ScrapedAt":  "2026-10-18 12:57:23"
     },
     {
         "Title":  "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
         "Url":  "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-        "Date":  "2026-10-18"
+        "Score":  164,
+        "Author":  "MaysonL",
+        "Comments":  193,
+        "ScrapedAt":  "2026-10-18 12:57:23"
     },
     {
         "Title":  "Bleached corals thrive within days when touching healthy neighbour",
         "Url":  "https://www.nature.com/articles/d41586-026-03266-x",
-        "Date":  "2026-10-18"
+        "Score":  475,
+        "Author":  "alkyon",
+        "Comments":  101,
+        "ScrapedAt":  "2026-10-18 12:57:23"
     },
     {
         "Title":  "Teal – A statically-typed dialect of Lua",
         "Url":  "https://teal-language.org/",
-        "Date":  "2026-10-18"
+        "Score":  49,
+        "Author":  "Lyngbakr",
+        "Comments":  13,
+        "ScrapedAt":  "2026-10-18 12:57:23"
+    },
+    {
+        "Title":  "Legal experts warn Meta\u0027s new terms still grant broad scraping permissions",
+        "Url":  "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+        "Score":  9,
+        "Author":  "DeepLogin",
+        "Comments":  3,
+        "ScrapedAt":  "2026-10-18 12:57:23"
     },
     {
         "Title":  "Lean now ships with verified kernels",
         "Url":  "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
-        "Date":  "2026-10-18"
+        "Score":  153,
+        "Author":  "matt_d",
+        "Comments":  50,
+        "ScrapedAt":  "2026-10-18 12:57:23"
+    },
+    {
+        "Title":  "Regex visualized as 3D marble run",
+        "Url":  "https://www.regexmarblerun.com/",
+        "Score":  17,
+        "Author":  "seizethecheese",
+        "Comments":  5,
+        "ScrapedAt":  "2026-10-18 12:57:23"
     },
     {
         "Title":  "DeepSeek-v4.1-Flash-1017",
         "Url":  "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-        "Date":  "2026-10-18"
+        "Score":  880,
+        "Author":  "theykk",
+        "Comments":  665,
+        "ScrapedAt":  "2026-10-18 12:57:23"
     },
     {
         "Title":  "Dam removals are bringing fish back across the northeastern United States",
         "Url":  "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
-        "Date":  "2026-10-18"
+        "Score":  290,
+        "Author":  "sohkamyung",
+        "Comments":  71,
+        "ScrapedAt":  "2026-10-18 12:57:23"
     },
     {
         "Title":  "Pele – Mermaid diagrams as themeable SVG",
         "Url":  "https://pele.run/",
-        "Date":  "2026-10-18"
+        "Score":  460,
+        "Author":  "dchest",
+        "Comments":  41,
+        "ScrapedAt":  "2026-10-18 12:57:23"
+    },
+    {
+        "Title":  "How employment is changing at Anthropic",
+        "Url":  "https://www.anthropic.com/research/employment-at-anthropic",
+        "Score":  46,
+        "Author":  "theanonymousone",
+        "Comments":  56,
+        "ScrapedAt":  "2026-10-18 12:57:23"
     },
     {
         "Title":  "Furifont, a Japanese font that shows furigana",
         "Url":  "https://furifont.antfu.me/",
-        "Date":  "2026-10-18"
+        "Score":  360,
+        "Author":  "plaguna",
+        "Comments":  74,
+        "ScrapedAt":  "2026-10-18 12:57:23"
     },
     {
         "Title":  "Making chicken transparent using Dorito dust",
         "Url":  "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
-        "Date":  "2026-10-18"
+        "Score":  312,
+        "Author":  "crescit_eundo",
+        "Comments":  82,
+        "ScrapedAt":  "2026-10-18 12:57:23"
     },
     {
         "Title":  "Southern ground hornbill gets 3D printed beak prostheses at Artis Zoo",
         "Url":  "https://nltimes.nl/2026/10/15/world-first-southern-ground-hornbill-gets-3d-printed-beak-prostheses-artis-zoo",
-        "Date":  "2026-10-18"
+        "Score":  39,
+        "Author":  "jacquesm",
+        "Comments":  5,
+        "ScrapedAt":  "2026-10-18 12:57:23"
     },
     {
         "Title":  "The Commodore 64 hardware simulator: break chips and pins, see the results",
         "Url":  "https://github.com/antirez/c64-hw-simulator",
-        "Date":  "2026-10-18"
+        "Score":  198,
+        "Author":  "antirez",
+        "Comments":  31,
+        "ScrapedAt":  "2026-10-18 12:57:23"
+    },
+    {
+        "Title":  "Interactive Linear Programming in the Browser",
+        "Url":  "https://lpviz.net/",
+        "Score":  45,
+        "Author":  "klamike",
+        "Comments":  0,
+        "ScrapedAt":  "2026-10-18 12:57:23"
+    },
+    {
+        "Title":  "Kids are outsmarting social media bans. That\u0027s not a problem we need to solve",
+        "Url":  "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/",
+        "Score":  11,
+        "Author":  "joozio",
+        "Comments":  11,
+        "ScrapedAt":  "2026-10-18 12:57:23"
+    },
+    {
+        "Title":  "You could have invented transformers from memory",
+        "Url":  "https://alexwang.ai/posts/associative-memory/",
+        "Score":  575,
+        "Author":  "speckx",
+        "Comments":  129,
+        "ScrapedAt":  "2026-10-18 12:57:23"
     },
     {
         "Title":  "Fun Extending the C Preprocessor",
         "Url":  "https://www.davidpriver.com/Fun-Extending-the-C-Preprocessor.html",
-        "Date":  "2026-10-18"
+        "Score":  29,
+        "Author":  "david2ndaccount",
+        "Comments":  9,
+        "ScrapedAt":  "2026-10-18 12:57:23"
+    },
+    {
+        "Title":  "NY announces game ownership bill requiring ownership rather than licensing",
+        "Url":  "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+        "Score":  323,
+        "Author":  "guiambros",
+        "Comments":  118,
+        "ScrapedAt":  "2026-10-18 12:57:23"
+    },
+    {
+        "Title":  "Lorenz and Little: How Much Does Your Tail Cost?",
+        "Url":  "https://brooker.co.za/blog/2026/07/29/lorenz-and-little.html",
+        "Score":  3,
+        "Author":  "porridgeraisin",
+        "Comments":  0,
+        "ScrapedAt":  "2026-10-18 12:57:23"
+    },
+    {
+        "Title":  "Show HN: High-quality duck audio synthesizer",
+        "Url":  "https://celphase.github.io/duck-pond/",
+        "Score":  143,
+        "Author":  "celphase",
+        "Comments":  31,
+        "ScrapedAt":  "2026-10-18 12:57:23"
+    },
+    {
+        "Title":  "Gold is now the top U.S. export",
+        "Url":  "https://www.numismaticnews.net/gold-now-top-u-s-export",
+        "Score":  347,
+        "Author":  "iamnothere",
+        "Comments":  191,
+        "ScrapedAt":  "2026-10-18 12:57:23"
+    },
+    {
+        "Title":  "Custom server to revive neato bots",
+        "Url":  "https://github.com/vacuula/vacuula",
+        "Score":  50,
+        "Author":  "matttah",
+        "Comments":  2,
+        "ScrapedAt":  "2026-10-18 12:57:23"
+    },
+    {
+        "Title":  "Superoptimizing an FPU Emulator",
+        "Url":  "https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/",
+        "Score":  34,
+        "Author":  "dverlaeckt80",
+        "Comments":  6,
+        "ScrapedAt":  "2026-10-18 12:57:23"
+    },
+    {
+        "Title":  "Codex Desktop continuously generates Crashpad pending dumps",
+        "Url":  "https://github.com/openai/codex/issues/25921",
+        "Score":  140,
+        "Author":  "AIorNot",
+        "Comments":  63,
+        "ScrapedAt":  "2026-10-18 12:57:23"
+    },
+    {
+        "Title":  "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+        "Url":  "https://llmspeed.dev/",
+        "Score":  302,
+        "Author":  "albinstman",
+        "Comments":  83,
+        "ScrapedAt":  "2026-10-18 12:57:23"
+    },
+    {
+        "Title":  "Show HN: Esp32sim – Run ESP32 firmware in the browser",
+        "Url":  "https://github.com/mikroverk/esp32sim",
+        "Score":  174,
+        "Author":  "joakimeriksson",
+        "Comments":  32,
+        "ScrapedAt":  "2026-10-18 12:57:23"
+    },
+    {
+        "Title":  "Matthew Prince on why Cloudflare offers a free version and always will (2016)",
+        "Url":  "https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685",
+        "Score":  105,
+        "Author":  "thatslast",
+        "Comments":  86,
+        "ScrapedAt":  "2026-10-18 12:57:23"
+    },
+    {
+        "Title":  "Solar surpasses nuclear power globally for first time",
+        "Url":  "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+        "Score":  628,
+        "Author":  "xbmcuser",
+        "Comments":  397,
+        "ScrapedAt":  "2026-10-18 12:57:23"
+    },
+    {
+        "Title":  "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
+        "Url":  "https://www.artie.com/careers",
+        "Score":  1,
+        "Author":  "j-cheong",
+        "Comments":  null,
+        "ScrapedAt":  "2026-10-18 12:57:23"
+    },
+    {
+        "Title":  "Notes on the Complex Roots of Unity",
+        "Url":  "https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/",
+        "Score":  29,
+        "Author":  "sks_15",
+        "Comments":  6,
+        "ScrapedAt":  "2026-10-18 12:57:23"
+    },
+    {
+        "Title":  "A skeptic\u0027s first contact with Kubernetes (2024)",
+        "Url":  "https://blog.davidv.dev/posts/first-contact-with-k8s/",
+        "Score":  126,
+        "Author":  "pmoriarty",
+        "Comments":  70,
+        "ScrapedAt":  "2026-10-18 12:57:23"
+    },
+    {
+        "Title":  "Rendering pretty sky in Around The World game",
+        "Url":  "https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/",
+        "Score":  151,
+        "Author":  "ibobev",
+        "Comments":  11,
+        "ScrapedAt":  "2026-10-18 12:57:23"
+    },
+    {
+        "Title":  "A Mole Infiltrated the Highest Ranks of American Militias (2025)",
+        "Url":  "https://www.propublica.org/article/ap3-oath-keepers-militia-mole",
+        "Score":  96,
+        "Author":  "georgecmu",
+        "Comments":  20,
+        "ScrapedAt":  "2026-10-18 12:57:23"
+    },
+    {
+        "Title":  "Laser Fault Injection on a Budget: RP2350 Edition (2025)",
+        "Url":  "https://courk.cc/rp2350-challenge-laser",
+        "Score":  62,
+        "Author":  "gregsadetsky",
+        "Comments":  17,
+        "ScrapedAt":  "2026-10-18 12:57:23"
+    },
+    {
+        "Title":  "Show HN: Parin – A 2D game engine between raylib and Godot, written in Dlang",
+        "Url":  "https://github.com/Kapendev/parin",
+        "Score":  64,
+        "Author":  "Kapendev",
+        "Comments":  16,
+        "ScrapedAt":  "2026-10-18 12:57:23"
+    },
+    {
+        "Title":  "The One Question I Can\u0027t Stand at Restaurants (\"What\u0027s your phone number?\")",
+        "Url":  "https://www.theatlantic.com/culture/2026/10/restaurant-phone-number-question/688926/",
+        "Score":  6,
+        "Author":  "Kaibeezy",
+        "Comments":  6,
+        "ScrapedAt":  "2026-10-18 12:57:23"
     }
 ]
