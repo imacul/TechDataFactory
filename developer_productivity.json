@@ -1,0 +1,26 @@
+﻿[
+    {
+        "Tool":  "Cursor",
+        "Category":  "AI Code Editor",
+        "Platform":  "Cross-Platform",
+        "Date":  "2026-10-18"
+    },
+    {
+        "Tool":  "SuperSplat",
+        "Category":  "3D Gaussian Splatting",
+        "Platform":  "Web",
+        "Date":  "2026-10-18"
+    },
+    {
+        "Tool":  "Postshot",
+        "Category":  "Neural Rendering",
+        "Platform":  "Desktop",
+        "Date":  "2026-10-18"
+    },
+    {
+        "Tool":  "n8n",
+        "Category":  "Workflow Automation",
+        "Platform":  "Cloud/Self-Hosted",
+        "Date":  "2026-10-18"
+    }
+]

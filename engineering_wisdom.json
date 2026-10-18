@@ -1,0 +1,20 @@
+﻿[
+    {
+        "Quote":  "Simplicity is prerequisite for reliability.",
+        "Author":  "Edsger W. Dijkstra",
+        "Category":  "Engineering",
+        "Date":  "2026-10-18"
+    },
+    {
+        "Quote":  "Make it work, make it right, make it fast.",
+        "Author":  "Kent Beck",
+        "Category":  "Architecture",
+        "Date":  "2026-10-18"
+    },
+    {
+        "Quote":  "Programs must be written for people to read, and only incidentally for machines to execute.",
+        "Author":  "Harold Abelson",
+        "Category":  "Clean Code",
+        "Date":  "2026-10-18"
+    }
+]

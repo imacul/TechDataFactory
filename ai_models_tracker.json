@@ -1,0 +1,26 @@
+﻿[
+    {
+        "Model":  "Llama-3-70B",
+        "Provider":  "Meta",
+        "Type":  "LLM",
+        "Date":  "2026-10-18"
+    },
+    {
+        "Model":  "Mistral-Large",
+        "Provider":  "Mistral AI",
+        "Type":  "LLM",
+        "Date":  "2026-10-18"
+    },
+    {
+        "Model":  "DeepSeek-V3",
+        "Provider":  "DeepSeek",
+        "Type":  "LLM",
+        "Date":  "2026-10-18"
+    },
+    {
+        "Model":  "Stable Diffusion 3",
+        "Provider":  "Stability AI",
+        "Type":  "Image Generation",
+        "Date":  "2026-10-18"
+    }
+]

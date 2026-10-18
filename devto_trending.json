@@ -1,0 +1,179 @@
+﻿[
+    {
+        "Title":  "Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Residency",
+        "Url":  "https://dev.to/devengers/dev-opportunity-radar-21-500k-y-combinator-funding-bolt-builders-week-and-ai-safety-research-12b8",
+        "Tags":  [
+                     "discuss",
+                     "community",
+                     "opportunities",
+                     "resources"
+                 ],
+        "Reactions":  75,
+        "Date":  "2026-10-18"
+    },
+    {
+        "Title":  "What was your win this week?!",
+        "Url":  "https://dev.to/devteam/what-was-your-win-this-week-36am",
+        "Tags":  [
+                     "weeklyretro"
+                 ],
+        "Reactions":  21,
+        "Date":  "2026-10-18"
+    },
+    {
+        "Title":  "Design for Churn",
+        "Url":  "https://dev.to/dailycontext/design-for-churn-5c6h",
+        "Tags":  [
+                     "aie",
+                     "design",
+                     "churn",
+                     "ai"
+                 ],
+        "Reactions":  48,
+        "Date":  "2026-10-18"
+    },
+    {
+        "Title":  "[AI in Practice] Upgrading from Gemini 3.5/3.6 to Gemini 4 Argon: Migration Notes and Pitfalls for LINE Bot Developers",
+        "Url":  "https://dev.to/gde/ai-in-practice-upgrading-from-gemini-3536-to-gemini-4-argon-migration-notes-and-pitfalls-for-hli",
+        "Tags":  [
+                     "ai",
+                     "api",
+                     "gemini",
+                     "python"
+                 ],
+        "Reactions":  8,
+        "Date":  "2026-10-18"
+    },
+    {
+        "Title":  "Building ora-tui with Google Antigravity \u0026 Gemini 4 Argon: An MS-DOS Retro TUI \u0026 OpenTelemetry Exporter for Oracle RAC, DB \u0026 SAN Multipath",
+        "Url":  "https://dev.to/gde/building-ora-tui-with-google-antigravity-gemini-4-argon-an-ms-dos-retro-tui-opentelemetry-4d02",
+        "Tags":  [
+                     "oracle",
+                     "go",
+                     "opentelemetry",
+                     "ai"
+                 ],
+        "Reactions":  8,
+        "Date":  "2026-10-18"
+    },
+    {
+        "Title":  "DuckLess: serverless DuckDB on Google Cloud, in your own project",
+        "Url":  "https://dev.to/gde/duckless-serverless-duckdb-on-google-cloud-in-your-own-project-4o5a",
+        "Tags":  [
+                     "duckdb",
+                     "googlecloud",
+                     "dataengineering",
+                     "opensource"
+                 ],
+        "Reactions":  11,
+        "Date":  "2026-10-18"
+    },
+    {
+        "Title":  "Local image generation with llamadart for the Llama Village storybook",
+        "Url":  "https://dev.to/gde/local-image-generation-with-llamadart-for-the-llama-village-storybook-p28",
+        "Tags":  [
+                     "tutorial",
+                     "ai",
+                     "dart",
+                     "flutter"
+                 ],
+        "Reactions":  8,
+        "Date":  "2026-10-18"
+    },
+    {
+        "Title":  "Beyond the Prompt Box: How Bloomberg is Architecting the Era of “Multiplayer AI”",
+        "Url":  "https://dev.to/dailycontext/beyond-the-prompt-box-how-bloomberg-is-architecting-the-era-of-multiplayer-ai-569a",
+        "Tags":  [
+                     "ai",
+                     "agents",
+                     "fintech",
+                     "aie"
+                 ],
+        "Reactions":  27,
+        "Date":  "2026-10-18"
+    },
+    {
+        "Title":  "Nobody’s winning the AI race yet",
+        "Url":  "https://dev.to/dailycontext/nobodys-winning-the-ai-race-yet-24h4",
+        "Tags":  [
+                     "ai",
+                     "gemini",
+                     "llm",
+                     "aie"
+                 ],
+        "Reactions":  17,
+        "Date":  "2026-10-18"
+    },
+    {
+        "Title":  "What a 48-Hour Hackathon Can Do for LLM Reliability",
+        "Url":  "https://dev.to/dailycontext/what-a-48-hour-hackathon-can-do-for-llm-reliability-9j6",
+        "Tags":  [
+                     "ai",
+                     "llm",
+                     "hackathon",
+                     "aie"
+                 ],
+        "Reactions":  21,
+        "Date":  "2026-10-18"
+    },
+    {
+        "Title":  "Operational intelligence is sociotechnical",
+        "Url":  "https://dev.to/dailycontext/operational-intelligence-is-sociotechnical-1627",
+        "Tags":  [
+                     "ai",
+                     "fintech",
+                     "design",
+                     "aie"
+                 ],
+        "Reactions":  47,
+        "Date":  "2026-10-18"
+    },
+    {
+        "Title":  "Gemini 4 Under the Microscope: Red-Teaming AI Agents and Deterministic Dual-Port Remote Control Gemini 4 Architecture Banner",
+        "Url":  "https://dev.to/gde/gemini-4-under-the-microscope-red-teaming-ai-agents-and-deterministic-dual-port-remote-control-4567",
+        "Tags":  [
+                     "gemini",
+                     "agents",
+                     "security",
+                     "devsecops"
+                 ],
+        "Reactions":  20,
+        "Date":  "2026-10-18"
+    },
+    {
+        "Title":  "Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 \u0027Committed Speech\u0027 Machine",
+        "Url":  "https://dev.to/gde/requests-promises-assertions-and-declarations-rewriting-our-ai-agent-workflow-as-a-1986-4k4c",
+        "Tags":  [
+                     "ai",
+                     "programming",
+                     "architecture",
+                     "unix"
+                 ],
+        "Reactions":  21,
+        "Date":  "2026-10-18"
+    },
+    {
+        "Title":  "Six Months After Cloud Next ‘26: A Builder’s Tour of the Gemini Enterprise Agent Platform",
+        "Url":  "https://dev.to/gde/six-months-after-cloud-next-26-a-builders-tour-of-the-gemini-enterprise-agent-platform-3hib",
+        "Tags":  [
+                     "googlecloud",
+                     "ai",
+                     "agents",
+                     "gemini"
+                 ],
+        "Reactions":  7,
+        "Date":  "2026-10-18"
+    },
+    {
+        "Title":  "AlphaEvolve and Gemini: Autonomous Algorithm Discovery for Unified Disaster Prediction",
+        "Url":  "https://dev.to/gde/alphaevolve-and-gemini-autonomous-algorithm-discovery-for-unified-disaster-prediction-20f4",
+        "Tags":  [
+                     "ai",
+                     "gemini",
+                     "iot",
+                     "algorithms"
+                 ],
+        "Reactions":  18,
+        "Date":  "2026-10-18"
+    }
+]

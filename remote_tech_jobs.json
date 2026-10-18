@@ -1,0 +1,26 @@
+﻿[
+    {
+        "Title":  "Senior Full-Stack Engineer",
+        "TechStack":  "TypeScript, React, Node.js",
+        "Location":  "Remote (Global)",
+        "Date":  "2026-10-18"
+    },
+    {
+        "Title":  "3D Graphics Engineer",
+        "TechStack":  "Three.js, WebGPU, TypeScript",
+        "Location":  "Remote (Global)",
+        "Date":  "2026-10-18"
+    },
+    {
+        "Title":  "Systems Software Developer",
+        "TechStack":  "Zig, C++, Python",
+        "Location":  "Remote (Global)",
+        "Date":  "2026-10-18"
+    },
+    {
+        "Title":  "AI Automation Architect",
+        "TechStack":  "Python, n8n, LangChain",
+        "Location":  "Remote (Global)",
+        "Date":  "2026-10-18"
+    }
+]

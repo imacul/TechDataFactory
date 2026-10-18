@@ -10,13 +10,13 @@
         "Date":  "2026-10-18"
     },
     {
-        "Title":  "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
-        "Url":  "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+        "Title":  "Parser Combinators",
+        "Url":  "https://t3.at/blog/2026-10-17-parser-combinators/",
         "Date":  "2026-10-18"
     },
     {
-        "Title":  "Parser Combinators",
-        "Url":  "https://t3.at/blog/2026-10-17-parser-combinators/",
+        "Title":  "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+        "Url":  "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
         "Date":  "2026-10-18"
     },
     {
@@ -72,31 +72,6 @@
     {
         "Title":  "Fun Extending the C Preprocessor",
         "Url":  "https://www.davidpriver.com/Fun-Extending-the-C-Preprocessor.html",
-        "Date":  "2026-10-18"
-    },
-    {
-        "Title":  "Interactive Linear Programming in the Browser",
-        "Url":  "https://lpviz.net/",
-        "Date":  "2026-10-18"
-    },
-    {
-        "Title":  "You could have invented transformers from memory",
-        "Url":  "https://alexwang.ai/posts/associative-memory/",
-        "Date":  "2026-10-18"
-    },
-    {
-        "Title":  "NY announces game ownership bill requiring ownership rather than licensing",
-        "Url":  "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
-        "Date":  "2026-10-18"
-    },
-    {
-        "Title":  "Gold is now the top U.S. export",
-        "Url":  "https://www.numismaticnews.net/gold-now-top-u-s-export",
-        "Date":  "2026-10-18"
-    },
-    {
-        "Title":  "Show HN: High-quality duck audio synthesizer",
-        "Url":  "https://celphase.github.io/duck-pond/",
         "Date":  "2026-10-18"
     }
 ]

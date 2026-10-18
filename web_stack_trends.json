@@ -1,0 +1,32 @@
+﻿[
+    {
+        "Name":  "React Three Fiber",
+        "Ecosystem":  "JavaScript/3D",
+        "TrendingRank":  1,
+        "Date":  "2026-10-18"
+    },
+    {
+        "Name":  "Next.js",
+        "Ecosystem":  "React/Fullstack",
+        "TrendingRank":  2,
+        "Date":  "2026-10-18"
+    },
+    {
+        "Name":  "FastAPI",
+        "Ecosystem":  "Python/Backend",
+        "TrendingRank":  3,
+        "Date":  "2026-10-18"
+    },
+    {
+        "Name":  "Tailwind CSS",
+        "Ecosystem":  "Frontend/Design",
+        "TrendingRank":  4,
+        "Date":  "2026-10-18"
+    },
+    {
+        "Name":  "Zig",
+        "Ecosystem":  "Systems Programming",
+        "TrendingRank":  5,
+        "Date":  "2026-10-18"
+    }
+]
